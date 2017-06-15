@@ -1,5 +1,3 @@
-package org.paumard;
-
 import java.io.File;
 import java.io.FileFilter;
 

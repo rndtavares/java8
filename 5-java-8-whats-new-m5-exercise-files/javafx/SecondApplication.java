@@ -1,4 +1,4 @@
-package org.paumard.javafx;
+package javafx;
 
 import java.io.IOException;
 import javafx.application.Application;

@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package org.paumard.stream;
+package stream;
 
 import java.util.ArrayList;
 import java.util.List;

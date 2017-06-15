@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package org.paumard.javafx;
+package javafx;
 
 import java.net.URL;
 import java.util.ResourceBundle;

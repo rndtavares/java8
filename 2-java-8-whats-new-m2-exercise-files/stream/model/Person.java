@@ -1,4 +1,4 @@
-package org.paumard.stream.model;
+package stream.model;
 
 /**
  *

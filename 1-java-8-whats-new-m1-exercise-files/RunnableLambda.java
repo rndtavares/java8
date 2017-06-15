@@ -1,5 +1,3 @@
-package org.paumard;
-
 /**
  *
  * @author José

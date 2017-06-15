@@ -1,4 +1,4 @@
-package org.paumard.stream;
+package stream;
 
 import java.util.function.Predicate;
 import java.util.stream.Stream;
